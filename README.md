@@ -12,9 +12,22 @@ An introduction to intention prediction scenario and data set.
 The experiment is about a human participant pitching a ball toward a robot (represented by a target area in the figure). The target area is divided into 9 grids which represent the 9 targets that the ball can hit. We expect the robot to be able to predict the intention of the participant (i.e., which of the nine targets the participant is pitching the ball to). 
 
 
+## Single-participant Data set
+
+A data set of human intentions behind human actions. This data set is built from one human priticipant. The dataset contains RGB images, RGB-D images, and skeleton data of human actions.
+
+The data set is free to use for non-commercial purposes.
 
 
-## Data set
+
+- RGB images: [RGB-train]() [RGB-test]()
+
+- RGB-D images: [RGB-D-train]() [RGB-D-test]()
+- Skeleton data: [Skeleton]()
+
+
+
+## Multi-participant Data set
 
 A data set of human intentions behind human actions. This data set is built from multiple human priticipants. The dataset contains RGB images, RGB-D images, and skeleton data of human actions.
 
@@ -30,7 +43,7 @@ The data set is free to use for non-commercial purposes.
 
 If this data set is useful for your research, please refer to our paper: 
 
-Shengchao Li, Lin Zhang, and Xiumin Diao - [Improving Human Intention Prediction Using Data Augmentation](https://ieeexplore.ieee.org/document/8525781/keywords#keywords)
+Shengchao Li, Lin Zhang, and Xiumin Diao - [Deep-Learning-Based Human Intention Prediction Using RGB Images and Optical Flow](https://link.springer.com/article/10.1007/s10846-019-01049-3)
   ([BibTeX](https://github.com/fantasylsc/Intention_Prediction/blob/master/Bib/LiZD18.bib))
 
 ## Others
