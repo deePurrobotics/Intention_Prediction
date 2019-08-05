@@ -44,7 +44,7 @@ The data set is free to use for non-commercial purposes.
 If this data set is useful for your research, please refer to our paper: 
 
 Shengchao Li, Lin Zhang, and Xiumin Diao - [Deep-Learning-Based Human Intention Prediction Using RGB Images and Optical Flow](https://link.springer.com/article/10.1007/s10846-019-01049-3)
-  ([BibTeX](https://github.com/fantasylsc/Intention_Prediction/blob/master/Bib/LiZD18.bib))
+  ([BibTeX](https://github.com/deePurrobotics/Intention_Prediction/blob/master/Bib/10.1007_s10846-019-01049-3.bib))
 
 ## Others
 1. data_acquire: capture 3 sec video by Kinect V2 under Matlab and save the data.
