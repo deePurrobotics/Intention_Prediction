@@ -23,7 +23,7 @@ The data set is free to use for non-commercial purposes.
 - RGB images: [RGB-train]() [RGB-test]()
 
 - RGB-D images: [RGB-D-train]() [RGB-D-test]()
-- Skeleton data: [Skeleton]()
+- Skeleton data: [Skeleton-train]() [Skeleton-test]()
 
 
 
