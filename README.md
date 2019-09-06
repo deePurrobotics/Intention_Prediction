@@ -20,10 +20,10 @@ The data set is free to use for non-commercial purposes.
 
 
 
-- RGB images: [RGB-train(extraction code: 527f)](https://pan.baidu.com/s/1oW66KmgzdG1RBhAo9ctPvg) [RGB-test]()
+- RGB images: [RGB-train (extraction code: 527f)](https://pan.baidu.com/s/1oW66KmgzdG1RBhAo9ctPvg) [RGB-test (extraction code: aw3x)](https://pan.baidu.com/s/1POClNnjPPEm2YEHAWETjtA)
 
-- RGB-D images: [RGB-D-train]() [RGB-D-test]()
-- Skeleton data: [Skeleton-train]() [Skeleton-test]()
+- RGB-D images: [RGB-D-train (extraction code: 3ekq)](https://pan.baidu.com/s/17hszJX8jNwWLduh1JcR9fg) [RGB-D-test (extraction code: 8uaw)](https://pan.baidu.com/s/1nMKYIw19SekA3w9n_MG-9A)
+- Skeleton data: [Skeleton-train (extraction code: u485)](https://pan.baidu.com/s/1zIdwYrA67Y9hevvI09RaVg) [Skeleton-test (extraction code: xk5p)](https://pan.baidu.com/s/10k7mb412rWeaSUB-1v9Teg)
 
 
 
